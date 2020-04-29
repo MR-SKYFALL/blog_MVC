@@ -1,0 +1,308 @@
+{
+  "done": [
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-19T20:24:17.717Z",
+      "id": "18",
+      "references": [],
+      "title": "edytuj jest dostepne dla wszystkich",
+      "type": "emergency"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-18T20:04:33.253Z",
+      "id": "17",
+      "references": [],
+      "title": "obsługa wysyłania edytowanego posta co gdy dane sa nie prawidłowe",
+      "type": "emergency"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-25T15:39:13.594Z",
+      "id": "32",
+      "references": [],
+      "title": "połacznie wyszukiwania i sortowania",
+      "type": "emergency"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-25T08:46:53.825Z",
+      "id": "30",
+      "references": [],
+      "title": "Przy dodawaniu postów zabezpieczenie przed f5",
+      "type": "emergency"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-19T20:28:53.161Z",
+      "id": "19",
+      "references": [],
+      "title": "refaktoring  add new post",
+      "type": "emergency"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-23T20:50:54.751Z",
+      "id": "29",
+      "references": [],
+      "title": "WYTESTUJ 2 PONIZSZE",
+      "type": "emergency"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-23T10:38:05.925Z",
+      "id": "28",
+      "references": [],
+      "title": "ZMIEN HASLO (w edycji danych)",
+      "type": "bug"
+    },
+    {
+      "assignedTo": {
+        "name": "ustawienia"
+      },
+      "creation_time": "2019-11-06T14:16:37.037Z",
+      "id": "7",
+      "references": [],
+      "title": "ckeditor"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-10T11:24:40.339Z",
+      "id": "9",
+      "references": [],
+      "title": "ckeditor gdy błedne dane to nie usuwaj tylko prxeslij renderem zeby user nie musał 3 raz wpisywac"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-09T20:27:10.652Z",
+      "id": "8",
+      "references": [],
+      "title": "ckeditor jak dostac dene + wysylanie do a=bazy"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-22T15:37:23.098Z",
+      "id": "22",
+      "references": [],
+      "title": "data dodania posta"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-22T15:37:07.923Z",
+      "id": "21",
+      "references": [],
+      "title": "data rejestracji usera"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-05T10:58:22.502Z",
+      "id": "3",
+      "references": [],
+      "title": "dodawanie nowego posta"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-23T09:16:40.124Z",
+      "id": "27",
+      "references": [],
+      "title": "edycja swoich danych przez usera"
+    },
+    {
+      "assignedTo": {
+        "name": "ustawienia"
+      },
+      "creation_time": "2019-11-13T11:52:05.662Z",
+      "id": "12",
+      "references": [],
+      "title": "filtorwnaie"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-25T15:38:49.393Z",
+      "id": "31",
+      "references": [],
+      "title": "info gdy znaleziono nic"
+    },
+    {
+      "assignedTo": {
+        "name": "Dawid"
+      },
+      "creation_time": "2019-10-23T12:54:09.040Z",
+      "details": {
+        "content": "kontroler funkcja login",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "obsługa akcji gdy błedne haslo"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-10-29T19:27:09.739Z",
+      "id": "2",
+      "references": [],
+      "title": "obsługa regexp controloer user and suer view VALIDACJA"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-05T11:06:37.390Z",
+      "id": "5",
+      "references": [],
+      "title": "obsługa zapamietaj mnie"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-22T15:36:36.348Z",
+      "id": "20",
+      "references": [],
+      "title": "pokaz posty danego usera"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-22T15:39:24.661Z",
+      "id": "23",
+      "references": [],
+      "title": "usun kaskadowo usera + posty + Admin nie moze usunac samego siebie"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-16T10:31:20.456Z",
+      "id": "14",
+      "references": [],
+      "title": "usuwanie postow przez odpowiedznie osoby"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-10T11:35:30.517Z",
+      "id": "11",
+      "references": [],
+      "title": "validacja w user register usunac nie potrzeby kod (foreach)"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-05T11:06:09.841Z",
+      "id": "4",
+      "references": [],
+      "title": "walidacja pustych pól w formularzu"
+    },
+    {
+      "assignedTo": {
+        "name": "ustawienia"
+      },
+      "creation_time": "2019-11-13T11:52:13.474Z",
+      "id": "13",
+      "references": [],
+      "title": "zarzadznie postami"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-16T10:31:51.573Z",
+      "id": "16",
+      "references": [],
+      "title": "zarzadznie urzytkownikami"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-10T11:34:40.296Z",
+      "id": "10",
+      "references": [],
+      "title": "zrobic front end jak post zostanie poprawnie dodany"
+    }
+  ],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-23T09:13:46.421Z",
+      "id": "25",
+      "references": [],
+      "title": "wyslij halso do usera"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-16T10:31:35.179Z",
+      "id": "15",
+      "references": [],
+      "title": "logi"
+    }
+  ],
+  "testing": [],
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "ustawienia"
+      },
+      "creation_time": "2019-11-06T13:17:48.656Z",
+      "id": "6",
+      "references": [],
+      "title": "mysqlreal secalpe string"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-23T09:14:48.902Z",
+      "id": "26",
+      "references": [],
+      "title": "na koncu poprawki kodu"
+    },
+    {
+      "assignedTo": {
+        "name": "MR-SKYFALL"
+      },
+      "creation_time": "2019-11-22T15:40:14.125Z",
+      "id": "24",
+      "references": [],
+      "title": "zmien haslo dla usera + wyslij mu je mailem"
+    }
+  ]
+}
